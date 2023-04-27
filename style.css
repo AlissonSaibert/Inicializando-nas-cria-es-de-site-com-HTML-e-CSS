@@ -1,0 +1,44 @@
+
+body{
+font-family: 'Montserrat', sans-serif;
+}
+p, li {
+color: #475550;
+font-size: 16px;
+}
+h3, .trybe_green {
+color: #11a36a;;
+} 
+h1{
+color: #11a36a;
+}  
+
+.hero-title {
+margin-bottom: 30px;
+font-size: 45px;
+line-height: 55px;
+font-weight: 600px;
+}
+
+.market-heading {
+margin-bottom: 60px;
+margin-top: 10px;
+font-size: 28px;
+font-weight: 600;
+text-align: center;
+}
+.picture {
+border-radius: 100%;
+}
+.button {
+padding: 15px  30px;
+border-radius: 4px;
+background-color: #11a36a;
+color: white;
+font-size: 16px;
+line-height: 20px;
+font-weight: 700;
+text-decoration: none;
+}
+
+
